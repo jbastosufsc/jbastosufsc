@@ -6,9 +6,11 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5548999208659&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jbastos.ufsc@gmail.com)](mailto:jbastos.ufsc@gmail.com)
 
-## Oi! 👋
+## Hello! 👋
 
 I'm Jorge Bastos, full stack developer, living in Florianópolis, Brazil.
+Fond ethics at work!
+
 
 <!-- - :office_worker:  -->
 
