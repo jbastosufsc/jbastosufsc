@@ -15,7 +15,7 @@ Fond ethics at work!
 <!-- - :office_worker:  -->
 
 - :blue_heart: Techs: React.js, React Native, Node.js, Gatsby, Docker, TypeScript, and others.
-- :books: Studying and exploring, Docker, Kubernetes e AWS :heart:
+- :books: Studying and exploring, frontend and backend technologies :heart:
 
 > :octocat: [jorgebastos.tk](https://www.jorgebastos.tk/)
 
